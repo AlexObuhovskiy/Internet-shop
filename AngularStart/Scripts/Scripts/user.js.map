@@ -1,0 +1,1 @@
+{"version":3,"sources":["user.ts"],"names":[],"mappings":";AAAA;IAAA;IAGA,CAAC;IAAD,WAAC;AAAD,CAHA,AAGC,IAAA;AAHY,oBAAI","file":"user.js","sourcesContent":["export class User {\r\n    name: string;\r\n    age: number;\r\n}"],"sourceRoot":"C:\\Users\\oob\\documents\\visual studio 2015\\Projects\\AngularStart\\AngularStart/Scripts"}
